@@ -6,12 +6,12 @@ This project, conducted entirely in Python, involved an intricate analysis of re
 
 ### Tools and Libraries Used:
 
-- Pandas: Employed for efficient data handling, including cleaning and manipulation tasks to ensure data integrity.
-- NumPy: Utilized for numerical operations, providing a foundation for various mathematical aspects of the analysis.
-- Matplotlib and Seaborn: These visualization libraries were instrumental in creating insightful charts, plots, and graphs for EDA, revealing correlations and outliers.
-- Scikit-Learn: Integrated this machine learning library for implementing Linear Regression and Ridge Regression models. Leveraged its tools for model evaluation, scoring, and refinement.
-- Polynomial Features: Applied advanced techniques by utilizing Polynomial Features to capture non-linear relationships in the data, enhancing the model's ability to make accurate predictions.
-- Pipeline Construction: Constructed a pipeline using Scikit-Learn, incorporating tools like StandardScaler, PolynomialFeatures, and LinearRegression. This pipeline facilitated a seamless and efficient workflow, contributing to model accuracy.
+- **Pandas**: Employed for efficient data handling, including cleaning and manipulation tasks to ensure data integrity.
+- **NumPy**: Utilized for numerical operations, providing a foundation for various mathematical aspects of the analysis.
+- **Matplotlib and Seaborn**: These visualization libraries were instrumental in creating insightful charts, plots, and graphs for EDA, revealing correlations and outliers.
+- **Scikit-Learn**: Integrated this machine learning library for implementing Linear Regression and Ridge Regression models. Leveraged its tools for model evaluation, scoring, and refinement.
+- **Polynomial Features**: Applied advanced techniques by utilizing Polynomial Features to capture non-linear relationships in the data, enhancing the model's ability to make accurate predictions.
+- **Pipeline Construction**: Constructed a pipeline using Scikit-Learn, incorporating tools like StandardScaler, PolynomialFeatures, and LinearRegression. This pipeline facilitated a seamless and efficient workflow, contributing to model accuracy.
 
 ### Analysis 
 - Correlation and Outlier Analysis: Employed Pandas, Matplotlib, and Seaborn to conduct in-depth exploratory analysis, uncovering correlations and identifying outliers critical for understanding the intricate dynamics of the housing market.
