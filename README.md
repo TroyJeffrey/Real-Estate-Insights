@@ -2,7 +2,7 @@
 
 ## Project Overview:
 
-This project, conducted entirely in Python, involved an intricate analysis of real estate data. Leveraging an array of powerful tools and libraries, the project encompassed data cleaning, exploratory data analysis (EDA), and the development of advanced predictive models using Linear Regression and Ridge Regression.
+This project, conducted entirely in Python, involved an intricate analysis of real estate data. Leveraging an array of powerful tools and libraries, the project encompassed data cleaning, exploratory data analysis (EDA), and the development of predictive models using Linear Regression and Ridge Regression.
 
 ### Tools and Libraries Used:
 
