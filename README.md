@@ -1,4 +1,4 @@
-# Real-Estate-Insights
+# Real Estate Price Insights and Model Development 
 
 ## Project Overview:
 
